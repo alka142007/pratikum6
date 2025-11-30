@@ -1,9 +1,16 @@
 praktikum 6
+
+
+
 program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa.
+
+
 flowchart
 
 
 penjelasan flowchart
+
+
 Alur Awal dan Loop: Program dimulai dan langsung masuk ke [Lingkaran] LOOP MENU UTAMA. Ini adalah perulangan tak terbatas (while True) yang memastikan program selalu siap menerima perintah.
 
 Keputusan Utama (Pilihan): Setelah menerima input Pilihan, alur program akan masuk ke serangkaian [Belah Ketupat] Keputusan. Ini adalah struktur percabangan (if-elif-else) yang menentukan aksi selanjutnya.
@@ -93,6 +100,7 @@ ubah(nama): Fungsi ini juga menerima nama sebagai argumen. Ia mencari data yang 
 Intinya, pemrograman ini menekankan pada penggunaan fungsi untuk membuat kode yang rapi, mudah dikelola, dan setiap fungsi hanya melakukan satu tugas (misalnya, tambah() hanya menambah, tidak menampilkan).
 
 output
+
 
 
 
